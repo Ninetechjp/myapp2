@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.7.1
 
-* System dependencies
+* System dependencies 
 
 * Configuration
 
-* Database creation
+* Database creation 
 
 * Database initialization
 
@@ -22,3 +22,21 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+・アカウント登録
+
+・ログイン/ログアウト
+
+・プロフィール編集
+
+・投稿編集
+
+・投稿一覧
+
+・投稿検索
+
+・いいね
+
+・コメント
+
+・フォロー

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef57d2c2-ab3d-4994-a9b9-ef99a792c410" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/402cbe69-ec8a-4cbe-8941-282a52c3511f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/402cbe69-ec8a-4cbe-8941-282a52c3511f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/402cbe69-ec8a-4cbe-8941-282a52c3511f/storage_v2/_src_/schema/myapp2_development.2TnQzg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/402cbe69-ec8a-4cbe-8941-282a52c3511f/storage_v2/_src_/schema/myapp2_test.tH0F_A.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/402cbe69-ec8a-4cbe-8941-282a52c3511f/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/402cbe69-ec8a-4cbe-8941-282a52c3511f/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.node-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/sessions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/users.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/sessions_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helpers/users_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/_form.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/_rails_default.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/sessions/login.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/shared/_error_messages.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/users/home.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20200516092320_create_users.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20200519182011_add_index_to_users_email.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20200520024752_add_migration_digest_to_users.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/Models/user_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/rails_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/myapp2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myapp2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/packs/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/packs/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/spring.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/spring.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1c5YYowVEv4JCRZ0pN3KjzTK1qF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql.8&#10;mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="net.vektah.codeglance.config.ConfigEntry" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="rails destroy migration add_index_to_users_email" />
+      <command value="rails g migration add_index_to_users_email" />
+      <command value="rails g migration add_migration_digest_to_users password_digest: string" />
+      <command value="rails destroy migration add_migration_digest_to_users password_digest: string" />
+      <command value="rails g migration add_migration_digest_to_users password_digest:string" />
+      <command value="rails destroy migration add_migration_digest_to_users password_digest:string" />
+      <command value="rails g migration add_migration_digest_to_users password_digest" />
+      <command value="rails g rspec:install" />
+      <command value="rails db:rollback" />
+      <command value="rake db:drop" />
+      <command value="rake db:drop:all" />
+      <command value="rails db:reset:all" />
+      <command value="rails db:create" />
+      <command value="rails db:migrate" />
+      <command value="rails db:reset" />
+      <command value="rails g Sessions login" />
+      <command value="rails g controller Sessions login" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: myapp2">
+    <configuration name="Rails console: myapp2" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
+      <module name="myapp2" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/bin/rails" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="console -e development -- --simple-prompt --legacy" />
+      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Development: myapp2" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="myapp2" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3001" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="BROWSER_URL" VALUE="http://0.0.0.0:3001" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: myapp2" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="myapp2" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: myapp2" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="myapp2" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: myapp2" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="myapp2" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="IRB console.Rails console: myapp2" />
+      <item itemvalue="Rails.Development: myapp2" />
+      <item itemvalue="Rails.Production: myapp2" />
+      <item itemvalue="Rake.spec: myapp2" />
+      <item itemvalue="Rake.test: myapp2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="IRB console.Rails console: myapp2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef57d2c2-ab3d-4994-a9b9-ef99a792c410" name="Default Changelist" comment="" />
+      <created>1589819971289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589819971289</updated>
+      <workItem from="1589819973892" duration="2164000" />
+      <workItem from="1589855092009" duration="4462000" />
+      <workItem from="1589909367086" duration="7703000" />
+      <workItem from="1589974514856" duration="11721000" />
+      <workItem from="1590085048826" duration="52824000" />
+      <workItem from="1590515800870" duration="2579000" />
+      <workItem from="1590558261262" duration="2503000" />
+      <workItem from="1590589955398" duration="8779000" />
+      <workItem from="1590617040267" duration="106000" />
+      <workItem from="1590643831035" duration="8414000" />
+      <workItem from="1590780909537" duration="120000" />
+      <workItem from="1590781052795" duration="11917000" />
+      <workItem from="1590937311744" duration="8626000" />
+      <workItem from="1590983723112" duration="49000" />
+      <workItem from="1590983955301" duration="419000" />
+      <workItem from="1590984574925" duration="6266000" />
+      <workItem from="1591135631410" duration="13363000" />
+      <workItem from="1591292921965" duration="272000" />
+      <workItem from="1591293209169" duration="16311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1295" y="559" width="1041" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590984267948">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state x="1295" y="559" width="1041" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.3321.1867@0.23.3321.1867" timestamp="1590984267948" />
+    <state x="288" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589868147129" />
+    <state x="1390" y="392" width="906" height="822" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1590983586350">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state x="1390" y="392" width="906" height="822" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.3321.1867@0.23.3321.1867" timestamp="1590983586350" />
+    <state width="435" height="310" key="DatabaseViewActions_Filter" timestamp="1589990106972">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state width="435" height="310" key="DatabaseViewActions_Filter/0.23.3321.1867@0.23.3321.1867" timestamp="1589990106972" />
+    <state width="246" height="195" key="DatabaseViewActions_Filter/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589867712167" />
+    <state x="1683" y="538" key="EnvironmentVariablesDialog" timestamp="1590616780110">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state x="1683" y="538" key="EnvironmentVariablesDialog/0.23.3321.1867@0.23.3321.1867" timestamp="1590616780110" />
+    <state width="1661" height="318" key="GridCell.Tab.0.bottom" timestamp="1591334116763">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state width="1661" height="318" key="GridCell.Tab.0.bottom/0.23.3321.1867@0.23.3321.1867" timestamp="1591334116763" />
+    <state width="1605" height="325" key="GridCell.Tab.0.bottom/1920.23.1402.877/0.23.1920.1057@0.23.1920.1057" timestamp="1589973751775" />
+    <state width="1605" height="325" key="GridCell.Tab.0.bottom/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589943669410" />
+    <state width="1661" height="318" key="GridCell.Tab.0.center" timestamp="1591334116763">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state width="1661" height="318" key="GridCell.Tab.0.center/0.23.3321.1867@0.23.3321.1867" timestamp="1591334116763" />
+    <state width="1605" height="325" key="GridCell.Tab.0.center/1920.23.1402.877/0.23.1920.1057@0.23.1920.1057" timestamp="1589973751775" />
+    <state width="1605" height="325" key="GridCell.Tab.0.center/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589943669409" />
+    <state width="1661" height="318" key="GridCell.Tab.0.left" timestamp="1591334116762">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state width="1661" height="318" key="GridCell.Tab.0.left/0.23.3321.1867@0.23.3321.1867" timestamp="1591334116762" />
+    <state width="1605" height="325" key="GridCell.Tab.0.left/1920.23.1402.877/0.23.1920.1057@0.23.1920.1057" timestamp="1589973751775" />
+    <state width="1605" height="325" key="GridCell.Tab.0.left/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589943669408" />
+    <state width="1661" height="318" key="GridCell.Tab.0.right" timestamp="1591334116763">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state width="1661" height="318" key="GridCell.Tab.0.right/0.23.3321.1867@0.23.3321.1867" timestamp="1591334116763" />
+    <state width="1605" height="325" key="GridCell.Tab.0.right/1920.23.1402.877/0.23.1920.1057@0.23.1920.1057" timestamp="1589973751775" />
+    <state width="1605" height="325" key="GridCell.Tab.0.right/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589943669409" />
+    <state width="1661" height="318" key="GridCell.Tab.1.bottom" timestamp="1591334116764">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state width="1661" height="318" key="GridCell.Tab.1.bottom/0.23.3321.1867@0.23.3321.1867" timestamp="1591334116764" />
+    <state width="1605" height="325" key="GridCell.Tab.1.bottom/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589846343956" />
+    <state width="1661" height="318" key="GridCell.Tab.1.center" timestamp="1591334116764">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state width="1661" height="318" key="GridCell.Tab.1.center/0.23.3321.1867@0.23.3321.1867" timestamp="1591334116764" />
+    <state width="1605" height="325" key="GridCell.Tab.1.center/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589846343956" />
+    <state width="1661" height="318" key="GridCell.Tab.1.left" timestamp="1591334116764">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state width="1661" height="318" key="GridCell.Tab.1.left/0.23.3321.1867@0.23.3321.1867" timestamp="1591334116764" />
+    <state width="1605" height="325" key="GridCell.Tab.1.left/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589846343956" />
+    <state width="1661" height="318" key="GridCell.Tab.1.right" timestamp="1591334116764">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state width="1661" height="318" key="GridCell.Tab.1.right/0.23.3321.1867@0.23.3321.1867" timestamp="1591334116764" />
+    <state width="1605" height="325" key="GridCell.Tab.1.right/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589846343956" />
+    <state width="391" height="855" key="HiddenNamespacesPopup" timestamp="1590983733624">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state width="391" height="855" key="HiddenNamespacesPopup/0.23.3321.1867@0.23.3321.1867" timestamp="1590983733624" />
+    <state width="221" height="539" key="HiddenNamespacesPopup/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589868264822" />
+    <state x="1228" y="588" key="SettingsEditor" timestamp="1591293624218">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state x="1228" y="588" key="SettingsEditor/0.23.3321.1867@0.23.3321.1867" timestamp="1591293624218" />
+    <state x="332" y="250" key="SettingsEditor/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589912729294" />
+    <state width="238" height="523" key="SqlResolveConfigurable" timestamp="1589912579142">
+      <screen x="0" y="23" width="1881" height="1177" />
+    </state>
+    <state width="238" height="523" key="SqlResolveConfigurable/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589912579142" />
+    <state x="1578" y="885" width="341" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1590302759363">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state x="1578" y="885" width="341" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.23.3321.1867@0.23.3321.1867" timestamp="1590302759363" />
+    <state x="1561" y="843" width="339" height="295" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1590302752254">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state x="1561" y="843" width="339" height="295" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/0.23.3321.1867@0.23.3321.1867" timestamp="1590302752254" />
+    <state x="1506" y="720" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590959990618">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state x="1506" y="720" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.3321.1867@0.23.3321.1867" timestamp="1590959990618" />
+    <state x="1303" y="376" width="700" height="530" key="recent.locations.popup" timestamp="1590389021349">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state x="1303" y="376" width="700" height="530" key="recent.locations.popup/0.23.3321.1867@0.23.3321.1867" timestamp="1590389021349" />
+    <state x="1089" y="423" width="1183" height="1071" key="run.anything.popup" timestamp="1590951586589">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state x="1089" y="423" width="1183" height="1071" key="run.anything.popup/0.23.3321.1867@0.23.3321.1867" timestamp="1590951586589" />
+    <state x="488" y="286" width="670" height="675" key="run.anything.popup/243.1223.1366.1001/0.23.1881.1177@0.23.1881.1177" timestamp="1589943669348" />
+    <state x="1318" y="333" width="670" height="676" key="search.everywhere.popup" timestamp="1591293321186">
+      <screen x="0" y="23" width="3321" height="1867" />
+    </state>
+    <state x="1318" y="333" width="670" height="676" key="search.everywhere.popup/0.23.3321.1867@0.23.3321.1867" timestamp="1591293321186" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myapp2@Rails_console__myapp2.rcov" NAME="Rails console: myapp2 Coverage Results" MODIFIED="1590857510127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="myapp2" />
+    <SUITE FILE_PATH="coverage/myapp2@Production__myapp2.rcov" NAME="Production: myapp2 Coverage Results" MODIFIED="1590682530176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="myapp2" />
+    <SUITE FILE_PATH="coverage/myapp2@Development__myapp2.rcov" NAME="Development: myapp2 Coverage Results" MODIFIED="1591334116717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="myapp2" />
+    <SUITE FILE_PATH="coverage/myapp2@db_drop_all__myapp2.rcov" NAME="db:drop:all: myapp2 Coverage Results" MODIFIED="1590302588396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="myapp2" />
+  </component>
+</project>
